@@ -6,6 +6,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anibesam&show_icons=true&locale=en&layout=compact" alt="anibesam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anibesam&show_icons=true&locale=en" alt="anibesam" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anibesam&" alt="anibesam" /></p>
