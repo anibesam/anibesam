@@ -3,4 +3,4 @@
 </p>
 <hr>
 
-<p>I'm focused on building and shipping web3 products.</p>
+<p>Building and shipping web3 products.</p>
