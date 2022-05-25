@@ -3,4 +3,4 @@
 </p>
 <hr>
 
-<p>Building and shipping web3 products. I am your guy for the backend and frontend 🤝</p>
+<p>Building and shipping web3 products. Available for web3 jobs, reach out to me at samanibe@outlook.com 🤝</p>
