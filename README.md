@@ -3,4 +3,4 @@
 </p>
 <hr>
 
-<p>Building and shipping web3 products. Available for web3 jobs, reach out to me at samanibe@outlook.com 🤝</p>
+<p>Building and shipping web3 products. Contact me at samanibe@outlook.com 🤝</p>
