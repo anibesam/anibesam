@@ -3,4 +3,4 @@
 </p>
 <hr>
 
-<p>Building and shipping web3 products.</p>
+<p>Learning, building and shipping web3 products.</p>
