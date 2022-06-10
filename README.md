@@ -1,4 +1,5 @@
-## Hello, I'm Anibe Samuel also known on web3 as Sambezalel 🤝
+## Hello, I'm Anibe Samuel  🤝
+## also known on web3 as Sambezalel
 <p align="center">I'm a software developer with vast experience in several programming languages. I'm learning, building, and shipping web3 products.
 </p>
 
