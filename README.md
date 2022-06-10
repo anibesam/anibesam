@@ -1,9 +1,9 @@
-## Hello, I'm Anibe Samuel 🤝
+## Hello, I'm Anibe Samuel also known on web3 as Sambezalel 🤝
 <p align="center">I'm a software developer with vast experience in several programming languages. I'm learning, building, and shipping web3 products.
 </p>
 
 
-Reach out to me ### samanibe@outlook.com
+#### Reach out samanibe@outlook.com
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anibesam)
 
