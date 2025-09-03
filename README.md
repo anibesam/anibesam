@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Anibe Samuel  
+#  Hi, I'm Anibe Samuel  
 
-🚀 Polyglot Software Engineer
-💼 Co-Founder and CTO @ Devdesk Integrated Services Limited  
+Software Engineer
 💡 Passionate about SaaS, Fintech, Blockchain & AI solutions  
 
 ---
@@ -19,8 +18,7 @@
 ## 🌍 Let’s Connect
 - 💼 [LinkedIn](https://linkedin.com/in/anibesam)  
 - 🐦 [X (Twitter)](https://x.com/anibesam)  
-- 💻 [GitHub](https://github.com/anibesam)  
-- 📧 anibe@example.com  
+ 
 
 ---
 
