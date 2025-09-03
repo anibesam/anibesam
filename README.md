@@ -13,28 +13,6 @@
 **Databases & Cloud:** MySQL · Firebase · AWS · Azure  
 **Other:** TailwindCSS · Web3 (Solana, EVM)  
 
----
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anibesam&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anibesam&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibesam&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 🎵 Now Playing
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem" alt="Now Playing on Spotify" width="400"/>
-  </a>
-</p>
 
 ---
 
