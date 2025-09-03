@@ -13,13 +13,4 @@ Software Engineer
 **Other:** TailwindCSS · Web3 (Solana, EVM)  
 
 
----
 
-## 🌍 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/anibesam)  
-- 🐦 [X (Twitter)](https://x.com/anibesam)  
- 
-
----
-
-✨ *“Building the future one commit at a time.”*  
